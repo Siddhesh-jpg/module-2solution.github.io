@@ -1,6 +1,4 @@
-<a href="index2.html"> hello</a>
 
-<!--
 <html>
 <head>
   <meta charset="utf-8">
@@ -48,4 +46,3 @@
   
   
 </html>
--->
