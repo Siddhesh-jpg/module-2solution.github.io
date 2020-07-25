@@ -96,7 +96,7 @@ div#container{
   
 }
 /* Medium screen devices*/
-@media(min-width:500px) and (max-width:1199px){
+@media(min-width:414px) and (max-width:1199px){
   .col-md-1,.col-l-md-2,.col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,
   .col-md-8,.col-md-9,.col-md-10,.col-md-11,.col-md-12 {
     float: left;
@@ -147,7 +147,7 @@ div#container{
   }
   
 /*small devices*/
-@media(min-width:200px) and (max-width:949px){
+@media(min-width:200px) and (max-width:413px){
   .col-sm-1,.col-l-sm-2,.col-sm-3,.col-sm-4,.col-sm-5,.col-sm-6,.col-sm-7,
   .col-sm-8,.col-sm-9,.col-sm-10,.col-sm-11,.col-sm-12 {
     float: left;
