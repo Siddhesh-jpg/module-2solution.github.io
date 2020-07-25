@@ -1,3 +1,5 @@
+<link rel="html" href="index2.html">
+
 <!--
 <html>
 <head>
