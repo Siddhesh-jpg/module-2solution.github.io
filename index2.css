@@ -127,9 +127,9 @@ div#container{
     width:91.66%;
   }
   .col-md-12{
-    width:60%;
-    position:relative;
-    left:200px;
+    width:100%;
+   
+
   }
    
   }
@@ -177,9 +177,9 @@ div#container{
   .col-sm-12{
     width:100%;
   }
-     #sidd{
+
      
-      position: center;
-   }
+    
+
 }
 
