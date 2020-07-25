@@ -86,6 +86,8 @@ div#container{
   }
   .col-lg-12{
     width:100%;
+    position:relative;
+    left:200px;
   }
    #sidd{
      
