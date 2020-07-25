@@ -1,4 +1,4 @@
-<link rel="html" href="index2.html">
+<a href="index2.html">
 
 <!--
 <html>
