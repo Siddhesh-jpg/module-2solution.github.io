@@ -8,25 +8,26 @@
 }
 body{
   font-family: Times New Roman;
+  background:#748eff;
 }
 nav{
   background: #0082e6;
-  height:110px;
-  position: relative;
-  top:60px;
+  height:130px;
+  }
+  
 
-}
+
 label.logo{
   font-size:35px;
   color:white;
   line-height: 80px;
   font-weight: bold;
-  padding: 0 100px;
+  padding: 0 20px;
 }
 nav ul{
   float: right;
   margin-right: 25px;
-  top:140px;
+  
 }
 nav ul li{
   display: inline-block;
