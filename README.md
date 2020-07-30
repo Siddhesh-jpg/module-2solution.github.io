@@ -1,49 +1,43 @@
-
 <html>
 <head>
-  <meta charset="utf-8">
+  <link rel="stylesheet" href="Enjoy.css">
+<link rel="stylesheet" href="bootstrap.min.css">
+<link rel="stylesheet" href="bootstrap.css">  
+<script src="bootstrap.min.js"></script>
+ <script src="bootstrap.js"></script>
 
-<meta name="viewport"
- content="width=device-width ,initial-scale=1.0">
+ 
+  <title>Enjoy Food</title>
+</head>  
 
-  <link rel="stylesheet" href="index2.css">
-   <link href="https://fonts.googleapis.com/css2?family=Red+Rose&family=Rowdies&display=swap" rel="stylesheet">
-  </head>
+     <header>
+    <nav id="header-nav" class="navbar navbar-default">
+     <div class="container">
+        <div class="navbar-header">
+ <a href="index.html"class="Pull-left"></a>
+            <div id="logo">
+               </div>  
+                  </div>
+                      </div> 
   
-<body>
-  <h1>  Welcome Order Something!!</h1>
-  <br>
-  <center><h3>Our Menu</h3></center>
-  <div id="container">
-  <br><br>
-  <div class=" col-sm-12  col-md-6 col-lg-4 " id="si"><p>
-    <b> Chicken</b>
-    <br><br><br><br>
-   Family time calls for a big share bucket! Enjoy 10 pieces of juicy, delicious chicken strips...served with 2 creamy, tangy dips. [for 2-3 people
-   Make your every moment happy and just enjoy  with your family
-  </p></div>
-  
-  <div class="col-md-6 col-sm-12 col-lg-4" id="sid"><p>
-    <b>Beef</b>
-     <br><br><br><br>
-    Silverside and topside are cheaper and leaner cuts of meat, well-suited to slow-cooking. The stock and juices make a great sauce when combined with caramelised onions  
-  </p></div> 
-  
-  <div class="col-md-12 col-sm-12 col-lg-4" id="sidd"><p>
-   <b>Vada Pav</b>
-    <br><br><br><br>
-    Mumbai’s popular street food, Vada Pav – spicy potato filling sandwiched between buns and layers of spicy garlic and green chutney!
-      please Order and enjoy the food !!!
-    </p></div>
-   
-  </div>
-  
+   <div class="navbar-brand">
+     <a href="index.html"><h2>Enjoy Hotel</h2></a>
+     <p>
+     
+       <span>Enjoy hotel Cerified </span>
+     </p>
+     
+     
+   </div>
 
 
+
+
+    </nav>
+</header>
+
+
+  <body>
   
-</body>
-  
-  
-  
+</body> 
 </html>
-
