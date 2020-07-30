@@ -12,7 +12,9 @@ body{
 nav{
   background: #0082e6;
   height:110px;
-  
+  position: relative;
+  top:60px;
+
 }
 label.logo{
   font-size:35px;
@@ -24,6 +26,7 @@ label.logo{
 nav ul{
   float: right;
   margin-right: 25px;
+  top:140px;
 }
 nav ul li{
   display: inline-block;
