@@ -7,7 +7,7 @@
  content="width=device-width ,initial-scale=1.0">
 
   <link rel="stylesheet" href="index2.css">
-
+   <link href="https://fonts.googleapis.com/css2?family=Red+Rose&display=swap" rel="stylesheet">
   </head>
   
 <body>
