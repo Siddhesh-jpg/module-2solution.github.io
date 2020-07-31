@@ -1,37 +1,27 @@
+<!DOCTYPE html>
 <html>
   <head>
-    <link rel="stylesheet" href="index2.css">
-    
+  <link rel="stylesheet" href="style.css">
   </head>
   <body>
-    
-    <nav>
-       <input type="checkbox" id="check">
-      <label for="check" class="checkbtn"></label>
-      <label class="logo"> SIddheshJ</label>
-    <i class="fas fa-bars"> </i>
-    
-   <ul>
-      
-        <li><a class="active" href="#"> HOME</a></li>
-        <li><a href="#"> SERVICES</a></li>
-        <li><a href="#"> ABOUT</a></li>
-        <li><a href="#"> REFERNCE</a></li>
-        <li><a href="#"> SINGIN</a></li>
-        
-        
-        
-        
-        
-      </ul>
-      
-      
-      
-      
-    </nav>   
-   
-  
-  
-  
-</body>  
+ <nav class="menu">
+	<ul class="active">
+		<li class="current-item"><a href="#">Home</a></li>
+		<li><a href="#">My Work</a></li>
+		<li><a href="#">About Me</a></li>
+		<li><a href="#">Get in Touch</a></li>
+		<li><a href="#">Blog</a></li>
+	</ul>
+
+	<a class="toggle-nav" href="#">&#9776;</a>
+
+	<form class="search-form">
+		<input type="text">
+		<button>Search</button>
+	</form>
+</nav>
+    <footer>
+      <p>Acme Web Deisgn, Copyright &copy; 2019</p>
+    </footer>
+  </body>
 </html>
